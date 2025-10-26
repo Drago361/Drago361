@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project with Danfoss - ACCO<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Django and expanding my knowledge on HTML, CSS, Python and C++<br>💬 Ask me about anything you would like to know<br>⚡ Fun fact: I love watching football
+🔭 I’m currently working on a project with Danfoss - ACCO<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Android Studio, Kotlin and expanding my knowledge on HTML, CSS, Python and C++<br>💬 Ask me about anything you would like to know<br>⚡ Fun fact: I love watching football
 
 
 ## 🌐 Socials:
